@@ -2,7 +2,7 @@
 
 Interactive Gradio application for visualizing K-Means cluster assignment on 2D customer-like data.
 
-[Live Demo](https://tanveerkaur29-kmeans-visualizer.hf.space/)
+[Live Demo](https://tanveerkaur29-kmeans-visualizer.hf.space/) (Hugging Face)
 
 ---
 
@@ -24,7 +24,7 @@ Enter an `(x, y)` point and the app assigns it to the nearest cluster, then plot
 | Python | 3.9+ |
 | Dependencies | `requirements.txt` |
 
-## Quick Start
+## Quick Start (To run locally)
 
 1. Install dependencies.
 
